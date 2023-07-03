@@ -15,7 +15,7 @@ class Person
 end
 
 
-p bob = Person.new('Robert')
+p bob = Person.new('Robert Ngahu')
 p bob.name                  # => 'Robert'
 p bob.first_name            # => 'Robert'
 p bob.last_name             # => ''
